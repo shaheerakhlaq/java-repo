@@ -18,6 +18,7 @@
 	<modules>
 		<module>annotation</module>
 		<module>designpattern</module>
+		<module>webclient</module>
 	</modules>
 
 	<dependencies>
