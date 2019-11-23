@@ -14,7 +14,7 @@
 	<artifactId>java-repo-annotation</artifactId>
 	<version>1.0</version>
 
-	<name>SH3 Project :: Project Annotation</name>
+	<name>SH3 Project :: Annotation</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
