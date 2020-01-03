@@ -24,6 +24,7 @@
 		<module>designpattern</module>
 		<module>webclient</module>
 		<module>aop</module>
+		<module>jwt</module>
 	</modules>
 
 	<dependencies>

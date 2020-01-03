@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.sh3.java.repo</groupId>
-	<artifactId>aop</artifactId>
+	<artifactId>java-repo-aop</artifactId>
 	<version>1.0</version>
 
 	<name>SH3 Project :: AOP</name>
