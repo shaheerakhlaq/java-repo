@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-repo.iml" filepath="$PROJECT_DIR$/java-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-repo.iml" filepath="$PROJECT_DIR$/java-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/java-repo-annotation.iml" filepath="$PROJECT_DIR$/annotation/java-repo-annotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/annotation/java-repo-annotation.iml" filepath="$PROJECT_DIR$/annotation/java-repo-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/java-repo-aop.iml" filepath="$PROJECT_DIR$/aop/java-repo-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpattern/java-repo-design-pattern.iml" filepath="$PROJECT_DIR$/designpattern/java-repo-design-pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/designpattern/java-repo-design-pattern.iml" filepath="$PROJECT_DIR$/designpattern/java-repo-design-pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webclient/java-repo-webclient.iml" filepath="$PROJECT_DIR$/webclient/java-repo-webclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt/java-repo-jwt.iml" filepath="$PROJECT_DIR$/jwt/java-repo-jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/webclient/java-repo-webclient.iml" filepath="$PROJECT_DIR$/webclient/java-repo-webclient.iml" />
     </modules>
   </component>

@@ -48,7 +48,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-paho*
-
-mqtt-directory/
-deployment/
