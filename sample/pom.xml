@@ -11,10 +11,10 @@
 	</parent>
 
 	<groupId>com.sh3.java.repo</groupId>
-	<artifactId>java-repo-annotation</artifactId>
+	<artifactId>java-repo-sample</artifactId>
 	<version>1.0</version>
 
-	<name>SH3 Project :: Annotation</name>
+	<name>SH3 Project :: Sample</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
