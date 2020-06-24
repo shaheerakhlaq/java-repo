@@ -25,7 +25,6 @@
 		<module>aop</module>
 		<module>jwt</module>
 		<module>sample</module>
-        <module>cache</module>
 		<module>logger</module>
     </modules>
 
