@@ -5,16 +5,16 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.sh3.java.repo</groupId>
+		<groupId>com.shr.java.repo</groupId>
 		<artifactId>java-repo</artifactId>
 		<version>1.0</version>
 	</parent>
 	
-	<groupId>com.sh3.java.repo</groupId>
+	<groupId>com.shr.java.repo</groupId>
 	<artifactId>java-repo-webclient</artifactId>
 	<version>1.0</version>
 
-	<name>SH3 Project :: Web Client</name>
+	<name>SHR :: Project Web Client</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
